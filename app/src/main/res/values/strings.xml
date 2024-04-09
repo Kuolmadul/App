@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Madul</string>
+    <string name="title_activity_picha2">PichaActivity2</string>
+    <string name="title_activity_input2">InputActivity2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_scroll">ScrollActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="title_activity_assigment">AssigmentActivity</string>
+    <string name="title_activity_copy">CopyActivity</string>
+    <string name="title_activity_clickableimage2">ClickableimageActivity2</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_page">PageActivity</string>
+</resources>
